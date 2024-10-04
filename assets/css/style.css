@@ -7,14 +7,10 @@
     --color-base2: #022a30;
     --color-brand: #e0f780;
     --color-brand2: #deff58; 
-     --color-body: #f4f7f6;        /* Soft Pale Gray */
+     --color-body: #f4f7f6;     
+     
 
-/*    --color-headling: #2f3e46;    /* Cool Dark Gray 
---color-base: #0a3d62;        /* Deep Navy Blue 
---color-base2: #1b4965;       /* Darker Blue 
---color-brand: #ffcb77;       /* Vibrant Warm Yellow 
---color-brand2: #ffe66d;      Soft Warm Yellow 
-*/
+
     --sidbar-widht: 240px;
     --font-base: "Bai Jamjuree";
 }
